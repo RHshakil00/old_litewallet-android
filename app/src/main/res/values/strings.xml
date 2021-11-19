@@ -833,6 +833,11 @@
   <!-- Beta Testing Litecoin Card -->
   <string name="LitecoinCard.Disclaimer.title">"Litecoin Card Beta"</string>
 
+  <string name="LitecoinDonation.Disclaimer.title">"Thank you for donating!"</string>
+  <string name="LitecoinDonation.Disclaimer.description">"Your donation will help accelerate the development of Litewallet along with Litecoin as a whole"</string>
+  <string name="LitecoinCard.Disclaimer.descriptionContinued">"With this understanding please click the checkmark to continue your donation"</string>
+  <string name="LitecoinDonation.Disclaimer.Checkbox">"Continue"</string>
+
   <string name="Login.ltcPrice" translatable="false">1 LTC = %1$s</string>
   <string name="Login.currentLtcPrice">Current LTC value in %1$s</string>
 
